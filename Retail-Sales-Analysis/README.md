@@ -1,4 +1,4 @@
-# Retail Sales Performance Analysis
+# Sales Performance Overview
 
 ## Project Overview
 This project analyzes retail sales data to understand monthly performance, seasonal patterns, and the impact of discounts, returns, and shipping on overall revenue.
@@ -15,6 +15,7 @@ The dataset contains monthly retail sales data including:
 - Net Sales
 - Shipping
 - Total Sales
+- Month Index
 
 ## Tools Used
 - Power BI
