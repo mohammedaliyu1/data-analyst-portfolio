@@ -1,8 +1,7 @@
-# Sales Performance Overview
+# Monthly Sales Performance Dashboard (Power BI)
 
 ## Project Overview
-This project analyzes retail sales data to understand monthly performance, seasonal patterns, and the impact of discounts, returns, and shipping on overall revenue.
-
+This project presents a Power BI dashboard analyzing monthly sales performance to identify trends, seasonality, and the relationship between order volume and revenue. The dashboard is designed to support quick performance monitoring and data-driven decision-making.
 ## Business Objective
 The objective of this analysis is to identify key sales drivers, assess revenue losses, and provide insights that can support data-driven business decisions.
 
@@ -24,7 +23,7 @@ The dataset contains monthly retail sales data including:
 
 ## Data Preparation
 - Standardized month values
-- Created a Month Number column for correct chronological sorting
+- Created a Month Index column for correct chronological sorting
 - Validated data types for all numerical fields
 
 ## Analysis Performed
@@ -34,10 +33,9 @@ The dataset contains monthly retail sales data including:
 - Shipping cost efficiency analysis
 
 ## Key Insights
-- Sales show clear seasonality, with certain months consistently outperforming others
-- Discounts and returns significantly reduce gross revenue in high-sales months
-- Sales growth is driven more by order value than order volume
-- Shipping costs remain stable relative to total sales
+Sales exhibit clear month-to-month variation, indicating seasonality.
+Months with higher order volumes generally correspond to higher total sales.
+Certain months show stronger revenue without proportional increases in orders, suggesting higher average order values.
 
 ## Conclusion
 This project demonstrates the ability to clean raw data, build meaningful visualizations, and derive actionable business insights using Power BI.
