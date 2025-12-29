@@ -41,3 +41,5 @@ Certain months show stronger revenue without proportional increases in orders, s
 This project demonstrates the ability to clean raw data, build meaningful visualizations, and derive actionable business insights using Power BI.
 
 ![Dashboard Preview](dashboard/dashboard_overview.png)
+
+## Repository Structure
